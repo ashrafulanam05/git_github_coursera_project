@@ -1,5 +1,7 @@
 function guess(){
+
     real_num=$(ls | wc -l)
+
     while true;
     do
         echo "Enter a guessed number: "
