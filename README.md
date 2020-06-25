@@ -1,1 +1,0 @@
-# git_github_coursera_project
